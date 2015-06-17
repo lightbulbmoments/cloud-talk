@@ -1,0 +1,28 @@
+{
+  "name": "cloud-talk",
+  "main": "index.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/lightbulbmoments/cloud-talk",
+  "authors": [
+    "Tarun <tarun1188@gmail.com>"
+  ],
+  "description": "A simple app to talk and chat with your friends and family for free using WebRTC.",
+  "keywords": [
+    "WebRTC",
+    "socket.io",
+    "nodejs",
+    "video",
+    "chat"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  }
+}

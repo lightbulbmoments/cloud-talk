@@ -1,0 +1,31 @@
+{
+  "name": "cloud-talk",
+  "version": "0.0.0",
+  "description": "A simple app to talk and chat with your friends and family for free using WebRTC.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lightbulbmoments/cloud-talk.git"
+  },
+  "keywords": [
+    "WebRTC",
+    "socket.io",
+    "nodejs",
+    "video",
+    "chat"
+  ],
+  "author": "Tarun (tarun1188@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lightbulbmoments/cloud-talk/issues"
+  },
+  "homepage": "https://github.com/lightbulbmoments/cloud-talk",
+  "dependencies": {
+    "express": "^4.12.4",
+    "mongoose": "^4.0.5"
+  }
+}
